@@ -1,8 +1,11 @@
 Hi there 👋
 <!-- ThushanthSbm/ThushanthSbm is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 --!>
+<br>
 About Me
+<br>
 🔭 I’m currently working on React & Vue + Laravel Projects
+<br>
 
 🌱 I’m currently learning Generative AI, Quantum Computing, Virtual Reality (VR) 2.0, Augmented Reality (AR), Internet of Things (IoT)
 
