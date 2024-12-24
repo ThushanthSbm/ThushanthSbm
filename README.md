@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Thushanth Subramaniam</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
 <p align="center">
 🔭 Currently working on <b>React</b> & <b>Vue.js</b> + <b>Laravel Projects</b> <br>
