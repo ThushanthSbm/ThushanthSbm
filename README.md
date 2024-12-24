@@ -48,9 +48,9 @@
 <h2>📚 Featured Projects</h2>
 
 <ul>
-  <li><a href="https://github.com/ThushanthSbm/Project1" target="_blank"><b>🔗 Project 1:</b></a> Brief description of the project.</li>
-  <li><a href="https://github.com/ThushanthSbm/Project2" target="_blank"><b>🔗 Project 2:</b></a> Brief description of the project.</li>
-  <li><a href="https://github.com/ThushanthSbm/Project3" target="_blank"><b>🔗 Project 3:</b></a> Brief description of the project.</li>
+  <li><a href="https://github.com/ThushanthSbm/TS_E-Shop" target="_blank"><b>🔗 E-Shop:</b></a> An online platform offering a wide range of products, enabling customers to shop conveniently from anywhere, anytime.</li>
+  <li><a href="https://github.com/ThushanthSbm/Laravel_POS" target="_blank"><b>🔗 POS System:</b></a> A point of sale solution designed to simplify and streamline retail transactions, inventory management, and sales reporting for businesses of all sizes.</li>
+  <li><a href="https://github.com/ThushanthSbm/sales_invoices_system" target="_blank"><b>🔗 Sales Invoice:</b></a> A document issued by a seller to a buyer, detailing the products or services provided, their quantities, prices, and the total amount due.</li>
 </ul>
 
 ---
